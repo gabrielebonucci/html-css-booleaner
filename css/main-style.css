@@ -53,3 +53,27 @@ h1{
     margin: 20px 0;
 
 }
+
+/* tabella */
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    text-align: left;
+    background-color: #1FAAE6;
+    color: white;
+}
+
+tr{
+    background-color:lightblue ;
+}
+
+.cel-50{
+    width: 50%;
+}
+
+.bg-white{
+    background-color: white;
+}
