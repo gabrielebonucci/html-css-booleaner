@@ -5,13 +5,15 @@ body {
 
 
 #main-header{
-    height: 135px;
+    height: 105px;
     background-color: #4EA1FF;
     background-image: url(../img/pattern.png);
-    background-size: 511px;
-    background-position-x: -150px ;
+    background-size: 417px;
+    background-position-x: -351px ;
 }
 
 #logo{
-    
+    height: 50px;
+    width: auto;
+    margin-top: 45px;
 }
