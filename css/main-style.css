@@ -3,6 +3,24 @@ body {
     margin: 0;
 }
 
+a{
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+.text-gray{
+    color: gray;
+}
+
+.text-small{
+font-size: 12px;
+}
+
+
+main{
+    margin: 5px;
+}
+
 
 #main-header{
     height: 105px;
@@ -16,4 +34,9 @@ body {
     height: 50px;
     width: auto;
     margin-top: 45px;
+}
+
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
 }
