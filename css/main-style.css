@@ -8,6 +8,10 @@ body {
     height: 135px;
     background-color: #4EA1FF;
     background-image: url(../img/pattern.png);
-    background-size: 35%;
-    margin-left: -12%;
+    background-size: 511px;
+    background-position-x: -150px ;
+}
+
+#logo{
+    
 }
