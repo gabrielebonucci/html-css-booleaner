@@ -77,3 +77,41 @@ tr{
 .bg-white{
     background-color: white;
 }
+
+.related-article{
+    color: white;
+    height: 150px;
+    width: 210px;
+    background-position: center;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+}
+
+#monitor{
+    font-weight: bold;
+    color: white;
+    height: 150px;
+    width: 210px;
+    background-position: center;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+
+}
+
+#graph{
+    font-weight: bold;
+    color: white;
+    height: 150px;
+    width: 210px;
+    background-position: center;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+
+
+}
